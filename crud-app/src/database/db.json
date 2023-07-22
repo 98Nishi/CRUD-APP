@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Nisha",
+      "username": "nishu",
+      "email": "nishu12@gmail.com",
+      "phone": "1234567899",
+      "id": 1
+    },
+    {
+      "name": "Katrina",
+      "username": "katty",
+      "email": "katrinakaif234@gmail.com",
+      "phone": "02314543212",
+      "id": 2
+    },
+    {
+      "name": "Tapsee",
+      "username": "tapsii",
+      "email": "tapsee23@gmail.com",
+      "phone": "02345678721",
+      "id": 3
+    },
+    {
+      "name": "Priyanka",
+      "username": "priyajonas",
+      "email": "priyankachopra223@gmail.com",
+      "phone": "01245326532",
+      "id": 4
+    },
+    {
+      "name": "Samantha",
+      "username": "simmi",
+      "email": "samantha123@gmail.com",
+      "phone": "01111116515",
+      "id": 5
+    }
+  ]
+}
